@@ -1,0 +1,1 @@
+- Modular chains allow independent verification gates. - Retrieval-augmented pipelines benefit from local caches for latency and auditability.
