@@ -1,0 +1,1 @@
+- Stable hashing allows deterministic ids for source and claim nodes. - Hash functions should be consistent across runs to preserve reproducibility.

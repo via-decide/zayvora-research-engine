@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "source_id": "SRC-001-2d32a1f4",
+      "source_type": "docs",
+      "uri": "https://docs.python.org/3/library/hashlib.html",
+      "title": "Python hashlib documentation",
+      "domain": "docs.python.org",
+      "quality_score": 0.67,
+      "stale": false,
+      "retrieved_at": "2026-05-24T08:44:07.667351+00:00",
+      "local_path": "sources/SRC-001-2d32a1f4.txt"
+    },
+    {
+      "source_id": "SRC-002-2f4fb623",
+      "source_type": "github",
+      "uri": "https://github.com/langchain-ai/langchain",
+      "title": "LangChain repository",
+      "domain": "github.com",
+      "quality_score": 0.47,
+      "stale": false,
+      "retrieved_at": "2026-05-24T08:44:07.667675+00:00",
+      "local_path": "sources/SRC-002-2f4fb623.txt"
+    },
+    {
+      "source_id": "SRC-003-6f2ff8fd",
+      "source_type": "pdf",
+      "uri": "https://arxiv.org/pdf/2308.08155.pdf",
+      "title": "RAG reliability paper",
+      "domain": "arxiv.org",
+      "quality_score": 0.66,
+      "stale": false,
+      "retrieved_at": "2026-05-24T08:44:07.667818+00:00",
+      "local_path": "sources/SRC-003-6f2ff8fd.txt"
+    }
+  ]
+}

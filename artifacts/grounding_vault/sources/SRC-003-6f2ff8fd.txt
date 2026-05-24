@@ -1,0 +1,1 @@
+- Grounded responses require explicit citation links. - Contradiction checks reduce hallucination impact in generated summaries.

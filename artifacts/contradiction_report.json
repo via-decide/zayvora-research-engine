@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-05-24T08:44:07.668200+00:00",
+  "unsupported_claims": [
+    {
+      "claim_id": "CLM-002-01",
+      "text": "Modular chains allow independent verification gates. - Retrieval-augmented pipelines benefit from local caches for latency and auditability.",
+      "source_id": "SRC-002-2f4fb623",
+      "citation": "SRC-002-2f4fb623:1",
+      "confidence": 0.44
+    }
+  ],
+  "source_conflicts": [],
+  "stale_or_low_quality_sources": [
+    {
+      "source_id": "SRC-002-2f4fb623",
+      "stale": false,
+      "quality_score": 0.47,
+      "reason": "quality below threshold"
+    }
+  ],
+  "claim_coverage": {
+    "total_claims": 3,
+    "supported_claims": 2
+  },
+  "sources_indexed": [
+    "SRC-001-2d32a1f4",
+    "SRC-002-2f4fb623",
+    "SRC-003-6f2ff8fd"
+  ]
+}

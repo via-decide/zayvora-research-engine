@@ -1,0 +1,25 @@
+{
+  "claims": [
+    {
+      "claim_id": "CLM-001-01",
+      "text": "Stable hashing allows deterministic ids for source and claim nodes. - Hash functions should be consistent across runs to preserve reproducibility.",
+      "source_id": "SRC-001-2d32a1f4",
+      "citation": "SRC-001-2d32a1f4:1",
+      "confidence": 0.63
+    },
+    {
+      "claim_id": "CLM-002-01",
+      "text": "Modular chains allow independent verification gates. - Retrieval-augmented pipelines benefit from local caches for latency and auditability.",
+      "source_id": "SRC-002-2f4fb623",
+      "citation": "SRC-002-2f4fb623:1",
+      "confidence": 0.44
+    },
+    {
+      "claim_id": "CLM-003-01",
+      "text": "Grounded responses require explicit citation links. - Contradiction checks reduce hallucination impact in generated summaries.",
+      "source_id": "SRC-003-6f2ff8fd",
+      "citation": "SRC-003-6f2ff8fd:1",
+      "confidence": 0.61
+    }
+  ]
+}

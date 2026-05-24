@@ -1,0 +1,20 @@
+{
+  "query": "Build local-first research-to-architecture pipeline for deterministic engineering outputs",
+  "seed_sources": [
+    {
+      "uri": "https://docs.python.org/3/library/hashlib.html",
+      "title": "Python hashlib documentation",
+      "content": "- Stable hashing allows deterministic ids for source and claim nodes. - Hash functions should be consistent across runs to preserve reproducibility."
+    },
+    {
+      "uri": "https://github.com/langchain-ai/langchain",
+      "title": "LangChain repository",
+      "content": "- Modular chains allow independent verification gates. - Retrieval-augmented pipelines benefit from local caches for latency and auditability."
+    },
+    {
+      "uri": "https://arxiv.org/pdf/2308.08155.pdf",
+      "title": "RAG reliability paper",
+      "content": "- Grounded responses require explicit citation links. - Contradiction checks reduce hallucination impact in generated summaries."
+    }
+  ]
+}
